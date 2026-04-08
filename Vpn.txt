@@ -17,4 +17,4 @@ vless://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx@example.com:443?encryption=none&sec
 trojan://trojan@152.53.200.167:8444?path=%2F&security=tls&host=jflsjlaf.pages.dev&fp=chrome&allowinsecure=0&type=ws&sni=jflsjlaf.pages.dev#%F0%9F%87%B7%F0%9F%87%BA%D0%AE%D1%82%D1%83%D0%B1+%D0%B1%D0%B5%D0%B7+%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B+%E2%AD%90%EF%B8%8F
 trojan://7yaRJG_0Le-GUR6e9Srgsg@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US
 vless://d49b76ff-de4c-4efb-84a1-8fe649748c94@95.164.3.121:443#Нидерланды🇳🇱
-trojan://AY2nDdx_cee78_aZ-xdbjA@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US
+trojan://AY2nDdx_cee78_aZ-xdbjA@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US(ускоренный)
