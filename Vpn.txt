@@ -13,3 +13,5 @@ vless://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx@example.com:443?encryption=none&sec
 trojan://7yaRJG_0Le-GUR6e9Srgsg@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US
 trojan://CCwLWWAbe8WSwBQXrJ7uaw@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US [запасной]
 vless://a9c40f82-66da-4790-aa45-c095526cbcaa@fi17x.luxecoffee.ru:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=09vAmu_cJcPpnHAe8ECRIGUsqgZKFlwswN4gNu8ZkWg&fp=chrome&spx=%2F&type=xhttp&sni=clientsfi18.luxecoffee.ru&sid=317f39e7a6f9#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+trojan://HLrHbHxTFdgX3vFqQQ7RkQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 US (Stable)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#🇳🇱
