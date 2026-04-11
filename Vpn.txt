@@ -4,7 +4,7 @@
 #support-url: https://t.me/free_vpn123456
 
 vless://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx@example.com:443?encryption=none&security=tls&sni=example.com&fp=chrome&type=ws&path=%2Fvless&host=example.com#Обход белых списков (Снизу):⬇️
-a84caa0ff316@free-dns.kweps.ru:443?security=reality&encryption=none&pbk=VXhjekTLPcliTbzq-jv0Y1SDnvWzyrpZhF-WxZN4jUQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%93%B6LTE%7C%40🫪+%2315
+vless://94018dfe-afb0-4bd3-a704-a84caa0ff316@free-dns.kweps.ru:443?security=reality&encryption=none&pbk=VXhjekTLPcliTbzq-jv0Y1SDnvWzyrpZhF-WxZN4jUQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%93%B6LTE%7C%40+%2315
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@de.nodes.rocketnetwork.ru:10047?mode=gun&security=reality&encryption=none&authority=&pbk=ZbClkr9LMZQxfrXcaUeJZN6hdIm_Ghrtp8V506tRngI&fp=chrome&allowinsecure=0&type=grpc&serviceName=stream&sni=wikiportal.su&sid=18d68c9b00860ddd#%F0%9F%87%B7%F0%9F%87%BA+LTE+%2351
 vless://2d9786c0-6c3f-4885-b5e8-7f134955ed6b@158.160.200.92:443?security=reality&encryption=none&pbk=l07EdUi5TwtWlmBSXgmrAOZ1wKpDE2iIO4rPUkeH9Qo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=da0fe33a#%F0%9F%87%AA%F0%9F%87%BA+LTE+%2363
 vless://e61dfea5-66a2-4eee-bfad-a819e614c2b1@141.98.190.73:8080?type=tcp&encryption=none&security=reality&pbk=Ke6Sp8XwdKYE9Ni8lHoDR_4JrCXaULyBV6qSysQxjxM&fp=firefox&sni=api-maps.yandex.ru&sid=fe&spx=%2F&flow=xtls-rprx-vision#Польша обход белых списков
