@@ -7,6 +7,8 @@ vless://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx@example.com:443?encryption=none&sec
 vless://8e2f7f2a-0e64-474f-9b90-
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@lv-1.illusion-vpn.ru:8443?security=reality&encryption=none&pbk=5Op9LeBebcKeoU92ob9QZeJ5D_A1sBwAMr4loaojgBk&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=c1398a9d2b9aed#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%93%B6LTE%7C%40🫪+%2324
 vless://xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx@example.com:443?encryption=none&security=tls&sni=example.com&fp=vless&type=ws&path=%2Fvless&host=example.com# Просто Впн (снизу):⬇️
+trojan://olsm2Z1Z_WiLV44PK152TQ@216.105.168.58:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US+%40vless_vpns
+trojan://9y68MjW252YGmqOVLbXxXA@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8+US+%40vless_vpns
 vless://9863ec51-b51b-4895-bab0-30040731729d@185.156.177.30.alexanderoff.ru:443?security=reality&encryption=none&echfq=none&pbk=4yZUq099c5aJJoQ4Q6aEazA1dva2C4Whn6fkimbHskw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=de7f4cb07606de1f#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%231
 vless://9863ec51-b51b-4895-bab0-30040731729d@72.56.234.27.alexanderoff.ru:443?security=reality&encryption=none&echfq=none&pbk=3l9vO_ZdlFp2ig2Hur3KYil8ZuE_2Rrse_Z9NkH7PkI&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%232
 vless://9863ec51-b51b-4895-bab0-30040731729d@80.253.251.6.alexanderoff.ru:449?path=%2Fapi&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%231
