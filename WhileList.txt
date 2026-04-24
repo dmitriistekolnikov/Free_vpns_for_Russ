@@ -12,3 +12,5 @@ hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:443?security=t
 hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8041?security=tls&allowinsecure=1&sni=market.yandex.ru#%F0%9F%8C%90+Обход #6+%7C+%5BIPv6%5D+%5B*CIDR%5D+YA
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#%F0%9F%8C%90+Обход #7+%7C+%5BIPv6%5D+%5B*CIDR%5D+YA
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:443?security=tls&allowinsecure=1&sni=rbc.ru#%F0%9F%8C%90+Обход #8+%7C+%5BIPv6%5D+%5B*CIDR%5D+YA
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D+YA
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?security=tls&allowinsecure=1&sni=live.ok.ru#%F0%9F%8C%90+Anycast-IP+%5B*CIDR%5D
