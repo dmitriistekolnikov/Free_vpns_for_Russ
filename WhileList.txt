@@ -2,6 +2,6 @@
 #announce: ✈️ Нажми на спидометр чтобы проверить соединение. Меньше ms - лучше | n/a - не работает
 #profile-update-interval: 1
 #support-url: https://t.me/free_vpn123456
-#limit=3GB
+#subscription-userinfo: upload=0; download=0; total=3221225472; expire=0
 
 vless://1a89484f-88db-4414-93ed-5b7ab71dc6cf@li2.gsupport.support:443?security=reality&encryption=none&echfq=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#litva+for+free_vpn123456
