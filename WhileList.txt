@@ -5,3 +5,4 @@
 #subscription-userinfo: upload=0; download=0; total=322122547200; expire=0
 
 vless://1a89484f-88db-4414-93ed-5b7ab71dc6cf@li2.gsupport.support:443?security=reality&encryption=none&echfq=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#litva+for+free_vpn123456
+vless://98eceb7d-5b8e-4b76-982c-580a7e259d04@51.250.126.252:443?security=reality&encryption=none&echfq=none&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=f4e2b8971d5c3a9f#%F0%9F%87%A9%F0%9F%87%AA+Germany+ads.x5+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
