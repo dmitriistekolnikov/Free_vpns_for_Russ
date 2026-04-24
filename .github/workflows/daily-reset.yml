@@ -1,0 +1,44 @@
+name: Daily VPN Limit Reset
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Каждый день в 00:00 UTC
+  workflow_dispatch:  # Возможность запустить вручную
+
+jobs:
+  reset-traffic:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Reset traffic counters
+        run: |
+          # Создаём временный файл
+          TEMP_FILE=$(mktemp)
+          
+          # Обрабатываем файл: сбрасываем upload/download, сохраняем total=3GB
+          while IFS= read -r line; do
+            if [[ "$line" =~ ^#subscription-userinfo: ]]; then
+              # Перезаписываем строку с обнулёнными счётчиками
+              echo "#subscription-userinfo: upload=0; download=0; total=3221225472; expire=0" >> "$TEMP_FILE"
+            else
+              echo "$line" >> "$TEMP_FILE"
+            fi
+          done < WhileList.txt
+          
+          # Заменяем оригинальный файл
+          mv "$TEMP_FILE" WhileList.txt
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add WhileList.txt
+          git commit -m "🔄 Daily reset: traffic counters zeroed [auto]" || echo "No changes to commit"
+          git push
