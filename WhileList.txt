@@ -2,7 +2,7 @@
 #announce: ✈️ Нажми на спидометр чтобы проверить соединение. Меньше ms - лучше | n/a - не работает
 #profile-update-interval: 1
 #support-url: https://t.me/free_vpn123456
-#subscription-userinfo: upload=0; download=0; total=322122547200; expire=0
+#subscription-userinfo: upload=0; download=0; total=3221225472; expire=0
 
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?security=tls&allowinsecure=1&sni=rbc.ru#%F0%9F%8C%90+Обход #1+%5B*CIDR%5D+YA
 hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8041?security=tls&allowinsecure=1&sni=market.yandex.ru#%F0%9F%8C%90+Обход #2+%5B*CIDR%5D+YA
