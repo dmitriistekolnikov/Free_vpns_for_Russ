@@ -4,7 +4,6 @@
 #support-url: https://t.me/free_vpn123456
 #subscription-userinfo: upload=0; download=0; total=3221225472; expire=0
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@185.175.47.238:4443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
-vless://60ae82da-f839-4125-aa1e-3df0e2a5c30c@5.188.224.116:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ir.ozone.ru&sid=6da16b1335651b38#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
-vless://408c57ff-f67f-49c7-856a-56bff6ac26e0@5.188.224.73:2083?mode=gun&security=reality&encryption=none&authority=&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&allowinsecure=0&type=grpc&serviceName=UpdateService&sni=ir.ozone.ru&sid=6da16b1335651b38#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
+vless://dca104c9-a338-44cd-8719-0971d0bcf38f@lte2.srv.raw-srv.org:8443?security=reality&encryption=none&pbk=wjk3NHQYPrrkyteVd4blHcShzDO-WI_72geetswEi3g&headerType=none&fp=firefox&allowinsecure=0&type=tcp&sni=lte2.srv.raw-srv.org&sid=5ddd401ad1df4b38#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+%5B*CIDR%5D+VK
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA+Russia+%5B*CIDR%5D
 vless://dca104c9-a338-03e9-8719-0971d0bcf38f@eu.bridge.raw-srv.org:443?security=reality&encryption=none&pbk=HsKBZVsE7puWHs8AzpHhf5eEwj0imv51at6GRRmLs0A&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eu.bridge.raw-srv.org&sid=54150a1d4a31894b#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+%5B*CIDR%5D
