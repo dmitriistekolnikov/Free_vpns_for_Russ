@@ -1,1 +1,5 @@
-
+#subscription-userinfo: upload=0; download=0; total=0; expire=0; used=50
+#profile-title: Khlmbkv&Ключник
+#profile-update-interval: 1
+#support-url: https://t.me/https://t.me/free_vpn123456
+#announce: НЕ РАБОТАЕТ ОБНОВИТЕ 🔄 Поддержка🧑‍💻-@khlmbkv; @Zloy201107
