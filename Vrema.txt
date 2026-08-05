@@ -1,6 +1,6 @@
 
 #providerid: id
-#profile-title: 🟦Steklo_VPN free
+#profile-title: 🟦Steklo_VPN free💎
 #profile-update-interval: 4
 #subscription-userinfo: upload=0; download=12884901888; total=536870912000; expire=0
 #profile-web-page-url: https://t.me/free_vpn123456
